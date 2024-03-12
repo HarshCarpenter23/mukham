@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/mukham/static/css/main.fd464143.css",
+    "main.js": "/mukham/static/js/main.78bf37b5.js",
+    "static/js/453.64cf5d71.chunk.js": "/mukham/static/js/453.64cf5d71.chunk.js",
+    "static/media/akash.jpg": "/mukham/static/media/akash.124feac36d6d25b43200.jpg",
+    "static/media/manasa.jpg": "/mukham/static/media/manasa.e2b9b384c77660fc8006.jpg",
+    "static/media/product1.png": "/mukham/static/media/product1.94a54360cc6ea71c7e77.png",
+    "static/media/neha.jpg": "/mukham/static/media/neha.026980b91e19e6513120.jpg",
+    "static/media/Group.png": "/mukham/static/media/Group.2288f6e0adcc006341d8.png",
+    "static/media/aboutbgd.jpg": "/mukham/static/media/aboutbgd.0017581fdab1dbfa9401.jpg",
+    "static/media/Galada.jpeg": "/mukham/static/media/Galada.32d51f809fc8cad6e9d9.jpeg",
+    "static/media/tanush.jpg": "/mukham/static/media/tanush.cb5c230fd1044578028f.jpg",
+    "static/media/aboutimg.png": "/mukham/static/media/aboutimg.5348b125ef45ca6f8abe.png",
+    "static/media/harshith.jpg": "/mukham/static/media/harshith.68563169012e3f698b70.jpg",
+    "static/media/aditya.jpg": "/mukham/static/media/aditya.9ddae86a2e07e2ef7a8c.jpg",
+    "static/media/sibisir.jpg": "/mukham/static/media/sibisir.329631299c15c216f5b4.jpg",
+    "static/media/home-img.png": "/mukham/static/media/home-img.c8225037ca7b0ee702a7.png",
+    "static/media/Sesha.jpeg": "/mukham/static/media/Sesha.684f56deac3a75202d70.jpeg",
+    "static/media/mission.png": "/mukham/static/media/mission.09a88c08957dde18cd34.png",
+    "static/media/data-monitor.png": "/mukham/static/media/data-monitor.17c553e02906c191351e.png",
+    "static/media/google-play-badge.png": "/mukham/static/media/google-play-badge.f902960a94878ee0da67.png",
+    "static/media/apple-badge.svg": "/mukham/static/media/apple-badge.e250c68b531f6067f8e03e48f60f5807.svg",
+    "static/media/verify.svg": "/mukham/static/media/verify.a18e427df467f6374cff35e7816312c0.svg",
+    "index.html": "/mukham/index.html",
+    "main.fd464143.css.map": "/mukham/static/css/main.fd464143.css.map",
+    "main.78bf37b5.js.map": "/mukham/static/js/main.78bf37b5.js.map",
+    "453.64cf5d71.chunk.js.map": "/mukham/static/js/453.64cf5d71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd464143.css",
+    "static/js/main.78bf37b5.js"
+  ]
+}

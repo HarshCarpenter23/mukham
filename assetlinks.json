@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.face.mukham.mukham_app",
+      "sha256_cert_fingerprints": [
+        "00:4F:76:BA:AF:5C:BF:62:8F:67:3F:A9:CA:2A:7D:2C:38:15:52:55:78:C9:B0:88:39:19:39:CF:01:91:9C:46",
+        "18:11:1B:C3:80:0A:66:91:08:40:95:11:31:72:58:79:40:04:40:1B:34:39:30:FB:FD:A3:88:41:9A:F5:DB:43",
+        "3F:6E:45:49:8C:49:E4:AD:3E:03:EB:62:ED:B1:5D:1E:71:05:14:05:99:9D:F3:69:7E:4D:8B:51:A9:E5:EB:41"
+      ]
+    }
+  }
+]
